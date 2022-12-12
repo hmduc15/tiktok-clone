@@ -1,8 +1,8 @@
-import { Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom';
 
-import HomePage from './pages/Home'
-import ContactPage from './pages/Contact'
-import NewsPage from './pages/News'
+import HomePage from './pages/Home';
+import ContactPage from './pages/Contact';
+import NewsPage from './pages/News';
 
 
 function App() {
